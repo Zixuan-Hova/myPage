@@ -1,172 +1,156 @@
 ---
 # Display name
-title: 吳健雄
+title: Zixuan (Hova) Li
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 
+last_name: 
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 💼
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Math Major Survivor  -  Now Fluent in the Language of Numbers
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zixuan.li@mail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: 
+    url: 
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Zixuan-Hova/CampusCodeCraftPy
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zixuan-li-609898229/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/king_lzx/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Maste of Business Analytics
+    institution: Saint Mary's University, Sobey School of Business
+    date_start: 2024-09
+    date_end: 2025-12
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 
+      url: 
+  - area: B.Sc.(Hons) in Mathematics & Its Applications Specialist (Probability/Statistics)
+    institution: University of Toronto St.George
+    date_start: 2021-09
+    date_end: 2024-06
+    summary: |
+      relevant courses: Time Series Analysis, Multivariate Data Analysis, Observational Studies, Real Analysis, ODE/PDE
+  - area: Undergraduate, Computer Science
+    institution: York University, Lassonde School of Engineering
+    date_start: 2020-01
+    date_end: 2020-12
+    summary: |
+      relevant courses: Theory of Computation, Net-centric Computing, Programming for Mobile Computing
+  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Market Research and Data Analyst Intern
+    company_name: Deloitte Foundation
+    company_url: 'https://www.deloitte.com/lu/en/about/story/purpose-values/deloitte-foundation.html'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-04
+    date_end: 2021-08
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      📊 Market Maverick: Dug deep into market trends to boost a charity campaign, impacting lives of over 1,000 beneficiaries—because who says you can’t mix analytics with altruism?
+        
+      📉 Survey Strategist: Wrangled data from 5,000+ respondents, because making decisions without data is just guessing.
+        
+      📈 Content Commander: Spearheaded social media content, boosting engagement by 30%. Turns out, numbers do have real power!
+
+  - position: Front-End Developer Intern
+    company_name: ZLSOFT Software Company
+    company_url: 'https://www1.zlsoftdq.cn/en/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01
+    date_end: 2021-04
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      🚀 Tech Trendsetter: Helped pick the coolest tech for web projects, ensuring we were always ahead of the curve.
+         
+      💻 CSS Conqueror & JavaScript Juggler: Crafted slick web pages that didn’t just work, they wowed.
+         
+      🤝 Collaboration Catalyst: Bridged the gap between front-end flair and back-end brawn, speeding up project delivery by a whopping 20%.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Programming Languages (Expert)
+        description: 'Python, R, SQL'
+        percent: 95
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
+      - name: Data Analysis (Advanced)
+        description: 'Predictive Modelling, Data Visualization'
+        percent: 90
         icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
+      - name: Web Development (Proficient)
+        description: 'JavaScript, CSS'
+        percent: 85
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: ⛷️ Ski
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 
+        icon: 
+      - name: 🎾 Tennis
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 
+        icon: 
+      - name: 🎮 Gaming
+        description: 'Counter-Strike Global Offensive (Premier 15000), Apex Legends (Diamond), Valorant (Diamond), League of Legends (Gold)'
+        percent: 
+        icon: 
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+Project:
+  - title: Statistical Analysis of Judicial Decisions, Legal Rules, and Judicial Decision Making
+    url: https://drive.google.com/file/d/1trEixdjbzAI1VU8DbeI4GolzqpG_G5Lr/view?usp=sharing
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      🕵️‍♂️ Digging Deep: Armed with Python, R, and SQL, I dive into judicial data, uncovering inefficiencies and disparities that hide in plain sight. Think of me as the detective who uses stats instead of a magnifying glass. |
+         
+      🏛️ Fighting for Fairness: Using data-driven insights, I highlight case outcome disparities and push for much-needed judicial reforms. It's like being a data-driven superhero, but my cape is made of graphs!
+         
+      🔍 Case Study Spotlight: My deep-dive into bail decisions reveals systemic biases, sparking conversations and paving the way for reform. It’s not just about finding facts; it’s about making a difference.
+      
+  - title: Regression Analysis on Graduate Admission
+    url: https://drive.google.com/file/d/14f6Rvhky9cCgkbjQi8ochdrlCOfMHhKs/view?usp=sharing
+   
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     🎓 Predictive Prodigy: Crafted wizard-level regression models to forecast grad school admissions. Who gets in? My algorithms have a guess before they even apply.
+         
+     🔍 Validation Virtuoso: Implemented cross-validation magic to ensure my crystal ball (read: models) wasn’t just spitting out academic gibberish but real, actionable insights.
+         
+     📊 R Aficionado: Went Sherlock Holmes with R, dissecting data layers to spotlight what really sways admission decisions. Spoiler: It’s more than just grades and test scores.
+
+  
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+👋 Hello World! I'm Zixuan (you can call me Hova), a math explorer by training, a data analyst by trade, and an esports enthusiast by choice. I've crunched numbers, gamed late into the night, and turned data into decisions — all before my morning coffee.
